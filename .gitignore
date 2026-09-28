@@ -5,6 +5,6 @@ __pycache__/
 venv/
 *.egg-info/
 
-# Big files - don't push to GitHub, upload directly to Hugging Face Space instead
+
 model.pkl
 emails.csv
