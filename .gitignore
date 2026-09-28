@@ -3,8 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
-*.egg-info/
 
-
-model.pkl
+# training data (9 MB) - not needed for deployment
 emails.csv
